@@ -1,0 +1,10 @@
+prepare:
+  fetch:
+    - url: https://drive.google.com/file/d/1PARCc7GXrlMtT3gE_LT-5FnATjzkHadd/view?usp=sharing
+      path: "my_rubocop.yml"
+
+plugins:
+  rubocop:
+    enabled: true
+    config:
+      file: my_rubocop.yml
