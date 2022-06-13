@@ -1,6 +1,6 @@
 prepare:
   fetch:
-    - url: https://drive.google.com/u/0/uc?id=1PARCc7GXrlMtT3gE_LT-5FnATjzkHadd&export=download
+    - url: https://8cb7-167-61-195-35.sa.ngrok.io/rubocop.yml
       path: "my_rubocop.yml"
 
 plugins:
