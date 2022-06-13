@@ -1,6 +1,6 @@
 prepare:
   fetch:
-    - url: https://drive.google.com/file/d/1PARCc7GXrlMtT3gE_LT-5FnATjzkHadd/view?usp=sharing
+    - url: https://drive.google.com/u/0/uc?id=1PARCc7GXrlMtT3gE_LT-5FnATjzkHadd&export=download
       path: "my_rubocop.yml"
 
 plugins:
