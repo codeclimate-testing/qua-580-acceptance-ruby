@@ -6,5 +6,6 @@ prepare:
 plugins:
   rubocop:
     enabled: true
+    channel: rubocop-1-23-0
     config:
       file: my_rubocop.yml
