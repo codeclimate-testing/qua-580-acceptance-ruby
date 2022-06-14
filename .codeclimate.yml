@@ -1,6 +1,6 @@
 prepare:
   fetch:
-    - url: https://8cb7-167-61-195-35.sa.ngrok.io/rubocop.yml
+    - url: https://cbd7-167-61-168-83.sa.ngrok.io/rubocop.yml
       path: "my_rubocop.yml"
 
 plugins:
